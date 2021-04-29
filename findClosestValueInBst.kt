@@ -1,5 +1,3 @@
-package com.algoexpert.program
-
 import kotlin.math.abs
 
 open class BST(value: Int) {
